@@ -8,6 +8,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("Hii");
 		System.out.println("Updating to demonstrate PULL with Prem Pardeshi");
+		System.out.println("Merging");
 	}
 
 }
